@@ -51,6 +51,5 @@ int main() {
 }
 ```
 
-## Disclaimer
-This project should not be used for university coursework projects. The contributors are not responsible if individuals are caught for plagiarism or academic dishonesty while using this project for such purposes.
+**Disclaimer**:This project should not be used for university coursework projects. The contributors are not responsible if individuals are caught for plagiarism or academic dishonesty while using this project for such purposes.
 
